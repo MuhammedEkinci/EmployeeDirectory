@@ -1,0 +1,16 @@
+.header {
+    size: 150px;
+    padding: 50px;
+    background: #09284b;
+    position: relative;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: #bb4908;
+    border-bottom-width: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    color: white;
+  }
+  
