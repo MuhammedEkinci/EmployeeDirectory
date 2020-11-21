@@ -12,7 +12,7 @@ function App() {
         <Router>
           <Header />
           <Container>
-            <Route exact path="/" component={Employees} />
+          <Employees></Employees>
           </Container>
         </Router>
       </div>
