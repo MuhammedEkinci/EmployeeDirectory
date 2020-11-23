@@ -11,4 +11,4 @@ This application is a emlpoyee directory. An API return a bunch of random people
  
 ## Demo
 
-Link to demo video
+Link to demo video: https://youtu.be/YFI0v5APje8
